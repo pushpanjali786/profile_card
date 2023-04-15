@@ -1,0 +1,146 @@
+body {
+    background:linear-gradient(to right,teal,cyan,blue);
+    background-color:cover;
+}
+
+.p1{ display:block;
+    margin-left:auto ;
+    margin-right:auto;
+    width:50%;
+    border-radius:70px;
+    height:70px;
+    width:70px;
+}
+
+.p2{
+    text-align:center ;
+    color:black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+
+.p3{
+    text-align:center;
+    word-spacing:50px;
+    font-size:15px;
+    font-weight:bold;
+    color:black;
+}
+
+
+.p8{
+    text-align:center;
+    word-spacing:90px;
+    
+    
+}
+
+.b1{
+    background-color:green;
+    height:20px;
+    width:80px;
+    text-align:center;
+    color:black;
+    font-weight:bold ;
+    border:none;
+    border-radius:4px;
+    transition-duration:0.4s;
+    opacity:0.6;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.b1:hover {
+    background-color:black;
+    color:green;
+}
+
+.b2{
+    background-color:darkblue;
+    height:20px;
+    width:80px;
+    text-align:center;
+    color:aqua;
+    font-weight:bold ;
+    border:none;
+    border-radius:4px;
+    transition-duration:0.4s;
+    opacity:0.6;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.b2:hover{
+    background-color:aqua;
+    color:darkblue;
+}
+
+
+.p4{
+    text-align:center ;
+    word-spacing:40px;
+    margin-top:20px;
+    
+}
+
+.p5{
+    margin-top:27px ;
+    text-align:center ;
+    color:mediumspringgrey;
+    font-size:15px;
+}
+
+.p6{
+    font-size:18px;
+    font-weight:bold ;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.p9{
+    font-size:17px;
+    margin-top: 22px;
+    margin-bottom:28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p7{
+    text-align:center;
+    word-spacing:48px;
+    margin-bottom: 28px;
+    
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+.pk1{
+    padding-top: 30px;
+    margin-top: 30px;
+    margin:  0 auto;
+    border:3px solid white;
+    border-radius:4%;
+    height:95vh;
+    width: 42vw;
+    box-shadow:5px 5px 7px rgb(59, 58, 58);
+    
+}
+.p4{
+    margin-top: 5px;
+}
+
+/* @media screen and (min-width: 480px) {
+   
+  } */
