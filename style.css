@@ -86,6 +86,7 @@ body {
 }
 
 .p5{
+    padding: 10px;
     margin-top:27px ;
     text-align:center ;
     color:mediumspringgrey;
@@ -132,8 +133,8 @@ body {
     margin:  0 auto;
     border:3px solid white;
     border-radius:4%;
-    height:80vh;
-    width: 42vw;
+    height:620px;
+    width: 450px;
     box-shadow:5px 5px 7px rgb(59, 58, 58);
     
 }
